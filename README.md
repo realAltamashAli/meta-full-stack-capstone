@@ -2,7 +2,7 @@
 
 ### Meta Full-Stack Developer Professional Certificate — Capstone
 
-[![Link to Certificate](https://img.shields.io/badge/Verified-Coursera-blue)](https://www.coursera.org/account/accomplishments/specialization/KAXRBWPHGDMY)
+[![Link to Certificate](https://img.shields.io/badge/Verified-META-blue)](https://www.coursera.org/account/accomplishments/specialization/KAXRBWPHGDMY)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-4.x-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
 
@@ -35,9 +35,9 @@ As an aspiring **Data Analyst**, I utilized this project to master the "under-th
 To run this project locally:
 
 1. **Clone the repository:**
-```
+
 git clone [https://github.com/realAltamashAli/meta-full-stack-capstone.git](https://github.com/realAltamashAli/meta-full-stack-capstone.git)
-```
+
 
 2. **Install dependencies (using Pipenv):**
 ```
