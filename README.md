@@ -36,7 +36,7 @@ To run this project locally:
 
 1. **Clone the repository:**
 
-git clone [https://github.com/realAltamashAli/meta-full-stack-capstone.git](https://github.com/realAltamashAli/meta-full-stack-capstone.git)
+  git clone [https://github.com/realAltamashAli/meta-full-stack-capstone.git](https://github.com/realAltamashAli/meta-full-stack-capstone.git)
 
 
 2. **Install dependencies (using Pipenv):**
