@@ -2,7 +2,7 @@
 
 ### Meta Full-Stack Developer Professional Certificate — Capstone
 
-[![Link to Certificate](https://img.shields.io/badge/Certified-META-blue)](https://www.coursera.org/account/accomplishments/specialization/KAXRBWPHGDMY)
+[![Meta Certified](https://img.shields.io/badge/Certified-Meta-0668E1?logo=meta&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/KAXRBWPHGDMY)
 [![Django](https://img.shields.io/badge/Django-4.x-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
